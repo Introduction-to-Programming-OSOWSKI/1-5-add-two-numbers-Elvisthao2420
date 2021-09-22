@@ -1,5 +1,5 @@
 #WRITE YOUR CODE IN THIS FILE
-def addTwoNumbers(x, y):
+def add(x, y):
     return x + y
 
-print(addTwoNumbers(6, 8))
+print(add(6, 8))
